@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="juno_black">#0B0B0B</color>
+    <color name="juno_card">#171717</color>
+    <color name="juno_white">#FFFFFF</color>
+    <color name="juno_gray">#A7A7A7</color>
+    <color name="juno_accent">#D7B45A</color>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.JunoMovie" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">@color/juno_black</item>
+        <item name="android:navigationBarColor">@color/juno_black</item>
+        <item name="android:colorAccent">@color/juno_accent</item>
+        <item name="colorPrimary">@color/juno_accent</item>
+    </style>
+</resources>
